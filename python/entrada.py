@@ -1,0 +1,5 @@
+a = input("cual es tu sador favorito de helado: ")
+b = input("cual es tu color favorito: ")
+c = input("quien es tu mejor amiga: ")
+d = input("cual es tu nombre: ")
+print("hola",d,"cual es tu color favorito",b,"y tambien cual es tu sabor favorito ",a, "a que considuencian es mio tambien es mi sabor favorito de helado, y una pregntita mas quien es tu amiga favotita de katseye",c,"gracias")
